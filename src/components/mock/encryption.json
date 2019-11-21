@@ -1,0 +1,28 @@
+{
+    "encryptionData": [
+        {
+            "agreementNum": "001",
+            "agreementName": "协议1",
+            "agreementDescrip": "这是协议1",
+            "agreementType": "A型"
+        },
+        {
+            "agreementNum": "002",
+            "agreementName": "协议2",
+            "agreementDescrip": "这是协议2",
+            "agreementType": "B型"
+        },
+        {
+            "agreementNum": "003",
+            "agreementName": "协议3",
+            "agreementDescrip": "这是协议3",
+            "agreementType": "C型"
+        },
+        {
+            "agreementNum": "004",
+            "agreementName": "协议4",
+            "agreementDescrip": "这是协议4",
+            "agreementType": "D型"
+        }
+    ]
+}

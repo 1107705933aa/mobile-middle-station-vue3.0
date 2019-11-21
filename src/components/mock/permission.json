@@ -1,0 +1,25 @@
+{
+    "permissionData": [
+        {
+            "accessName": "111",
+            "terminalName": "222",
+            "interfaceName": "222",
+            "interfaceDescrip": "555",
+            "applicateReason": "666"
+        },
+        {
+            "accessName": "111",
+            "terminalName": "222",
+            "interfaceName": "222",
+            "interfaceDescrip": "555",
+            "applicateReason": "666"
+        },
+        {
+            "accessName": "111",
+            "terminalName": "222",
+            "interfaceName": "222",
+            "interfaceDescrip": "555",
+            "applicateReason": "666"
+        }
+    ]
+}
